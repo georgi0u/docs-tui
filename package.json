@@ -1,0 +1,24 @@
+{
+  "name": "docs-tui",
+  "version": "1.0.0",
+  "description": "Hello World React Ink app",
+  "main": "index.tsx",
+  "scripts": {
+    "start": "tsx index.tsx"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "fast-xml-parser": "^5.3.4",
+    "ink": "^6.6.0",
+    "react": "^19.2.4"
+  },
+  "devDependencies": {
+    "@types/node": "^25.2.0",
+    "@types/react": "^19.2.10",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}

@@ -1,0 +1,1 @@
+A fun experiment to display markdown docs in the terminal, written with react, ink, and claude.
